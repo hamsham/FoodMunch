@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainButtons.qml</file>
+        <file>DefaultGroupList.qml</file>
+        <file>UiDispatcher.qml</file>
+        <file>RecipeTable.qml</file>
+        <file>DbInterface.qml</file>
+        <file>RecipeModel.qml</file>
+        <file>IngredientModel.qml</file>
+        <file>IngredientGroupList.qml</file>
+        <file>FoodData.db</file>
+        <file>FoodData.ini</file>
+        <file>RecipeSortOption.js</file>
+        <file>SearchBar.qml</file>
+        <file>ObjectFactory.qml</file>
+    </qresource>
+</RCC>
